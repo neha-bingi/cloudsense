@@ -8,16 +8,15 @@ Agentic Multi-Cloud Cost Intelligence Platform
 
 ## Homepage
 
-![Homepage](./screenshots/homepage.png)
+![Homepage](./Screenshots/homepage.png)
 
 ## Cost Estimator
 
-![Estimator](./screenshots/estimator.png)
+![Estimator](./Screenshots/estimator.png)
 
 ## Analysis Results
 
-![Analysis](./screenshots/analysis.png)
-
+![Analysis](./Screenshots/analysis.png)
 ## Features
 
 - Multi-cloud cost estimation
