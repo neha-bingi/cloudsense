@@ -22,8 +22,11 @@ export default function Home() {
       <p className="mt-4 text-slate-600 text-center">
         Know Before You Build. Optimize Before You Deploy.
       </p>
+      <div className="mt-6 px-4 py-2 rounded-full bg-pink-100 text-pink-600 text-sm font-medium">
+  Agentic AI • Multi-Cloud • Cost Intelligence
+      </div>
 
-      <button className="mt-10 bg-gradient-to-r from-pink-500 to-purple-500 hover:scale-105 transition-all duration-300 text-white font-semibold px-8 py-4 rounded-xl">
+      <button className="mt-10 bg-gradient-to-r from-pink-500 to-purple-500 text-white font-semibold px-8 py-4 rounded-xl shadow-lg hover:scale-105 transition-all duration-300">
         Try CloudSense
       </button>
 <FeatureCards />

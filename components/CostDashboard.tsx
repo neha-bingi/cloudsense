@@ -1,17 +1,17 @@
 export default function CostDashboard() {
   const providers = [
     {
-      name: "AWS",
+      name: "☁️ AWS",
       cost: "$520/mo",
       color: "text-orange-500",
     },
     {
-      name: "Azure",
+      name: "🔷 Azure",
       cost: "$610/mo",
       color: "text-blue-500",
     },
     {
-      name: "Google Cloud",
+      name: "🌈 Google Cloud",
       cost: "$480/mo",
       color: "text-green-500",
     },

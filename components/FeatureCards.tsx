@@ -23,7 +23,7 @@ export default function FeatureCards() {
       {features.map((feature) => (
         <div
           key={feature.title}
-          className="bg-white border-slate-200 shadow-md p-6 rounded-2xl hover:border-slate-500 transition-all"
+          className="bg-white border border-slate-200 rounded-2xl p-6 shadow-md hover:-translate-y-1 hover:shadow-xl transition-all duration-300"
         >
           <h3 className="text-xl font-semibold text-pink-600">
             {feature.title}

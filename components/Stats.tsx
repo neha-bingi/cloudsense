@@ -11,7 +11,7 @@ export default function Stats() {
       {stats.map((stat) => (
         <div
           key={stat.label}
-          className="bg-white border border-slate-200 rounded-2xl p-6 text-center shadow-md"
+          className="bg-white border border-slate-200 rounded-2xl p-6 text-center shadow-md hover:-translate-y-1 hover:shadow-xl transition-all duration-300"
         >
           <h2 className="text-3xl font-bold text-pink-600">
             {stat.value}
